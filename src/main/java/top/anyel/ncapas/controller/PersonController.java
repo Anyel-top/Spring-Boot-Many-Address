@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.*;
 import top.anyel.ncapas.model.Address;
 import top.anyel.ncapas.model.Person;
 import top.anyel.ncapas.service.PersonService;
-import top.anyel.ncapas.service.PersonUpperCaseService;
+import top.anyel.ncapas.service.uppercase.PersonUpperCaseService;
 import top.anyel.ncapas.utils.logger.CustomLoggerFactoryService;
 import top.anyel.ncapas.utils.logger.ICustomLoggerService;
 
